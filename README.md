@@ -12,3 +12,6 @@ I plan on using the generic pose estimation and path generation code provided in
 
 # Motivation
 The motivation of this project is to better understand the WPILib ecosystem and how Java has changed in FRC since I used it in 2016-2020. If I can learn the language and API and implement a working codebase, I can help train and assist our future programmers with the transition from LabVIEW to Java (or another WPILib supported language).
+
+## Why Java?
+Java is the most widely used language in FRC.
